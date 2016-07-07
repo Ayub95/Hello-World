@@ -1,0 +1,8 @@
+D:\Work\Examples\CRC-Test\CRC-Test\bin\Debug\CRC-Test.exe
+D:\Work\Examples\CRC-Test\CRC-Test\bin\Debug\CRC-Test.pdb
+D:\Work\Examples\CRC-Test\CRC-Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Examples\CRC-Test\CRC-Test\obj\Debug\CRC-Test.exe
+D:\Work\Examples\CRC-Test\CRC-Test\obj\Debug\CRC-Test.pdb
+D:\Work\Examples\CRC-Test\CRC-Test\bin\Debug\ViewerUtils.dll
+D:\Work\Examples\CRC-Test\CRC-Test\bin\Debug\netDxf.dll
+D:\Work\Examples\CRC-Test\CRC-Test\bin\Debug\ViewerUtils.pdb
